@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bernat</h1>
+<p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Benvingut+soc+el+Bernat;Always+learning+new+things"></a>
+  </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rubiolbernat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rubiolbernat) 
